@@ -16,7 +16,7 @@ print(" -", skill1, "("+level1+")")
 print(" -", skill2, "("+level2+")")
 print(" -", skill3, "("+level3+")")
 print("")
-print(f"I am looking for a job with a salary of {lower}-{upper} euros per month")
+print(f" I am looking for a job with a salary of {lower}-{upper} euros per month")
 
 
 
